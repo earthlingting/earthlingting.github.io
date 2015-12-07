@@ -1,0 +1,15 @@
+---
+published: true
+title: Yeah
+layout: post
+---
+<script type="text/javascript">
+var urls = new Array("http://datearth.blogspot.com", "http://datearth.blogspot.com/2015/11/cafe-wife-with-staff-full-of-beautiful.html");
+function redirect()
+{
+window.location = urls[Math.floor(urls.length*Math.random())];
+}
+var temp = setInterval("redirect()", 2500);
+</script>
+
+<img src="http://s30.postimg.org/834rz21up/7f7fda026a8e7e4dcc8d6055470bf67d.jpg" alt="7f7fda026a8e7e4dcc8d6055470bf67d" width="960px" height="1280px">

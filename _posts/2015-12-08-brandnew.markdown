@@ -1,0 +1,15 @@
+---
+published: true
+title: BrandNew
+layout: post
+---
+<script type="text/javascript">
+var urls = new Array("http://datearth.blogspot.com/2015/11/top-10-world-class-bars.html", "http://datearth.blogspot.com/2015/11/discover-land-of-extremely-beautiful.html");
+function redirect()
+{
+window.location = urls[Math.floor(urls.length*Math.random())];
+}
+var temp = setInterval("redirect()", 2500);
+</script>
+
+<img src="http://s1.postimg.org/lhhs2sz5r/4085f048ca96c5f3aa1eab4e59772ba8.jpg" alt="4085f048ca96c5f3aa1eab4e59772ba8" height="879px" width="800px">

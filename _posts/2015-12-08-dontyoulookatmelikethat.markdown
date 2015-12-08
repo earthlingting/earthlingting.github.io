@@ -4,7 +4,7 @@ title: DontYouLookAtMeLikeThat
 layout: post
 ---
 <script type="text/javascript">
-var urls = new Array("linkweb1", "linkweb2");
+var urls = new Array("http://datearth.blogspot.com/2015/12/its-lustful-visitors-who-make-thailand.html", "http://datearth.blogspot.com/2015/11/a-feel-in-kyoto-ancient-capital-of-japan.html");
 function redirect()
 {
 window.location = urls[Math.floor(urls.length*Math.random())];
